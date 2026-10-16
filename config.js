@@ -11,6 +11,6 @@
 
 const ACHADINHOS = {
   planilha_configuracoes: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgZ-6UBEUS6xeiCys5ewcoBtCUv9jeUJuZRAdgw_D4-lGMDGJZXKrGUB0wxN3urQ/pub?gid=295572342&single=true&output=csv",
-  planilha_catalogo: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgZ-6UBEUS6xeiCys5ewcoBtCUv9jeUJuZRAdgw_D4-lGMDGJZXKrGUB0wxN3urQ/pub?gid=142964358&single=true&output=csv",
+  planilha_catalogo: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgZ-6UBEUS6xeiCys5ewcoBtCUv9jeUJuZRAdgw_D4-lGMDGJZXKrGUB0wxN3urQ/pub?gid=21599969&single=true&output=csv",
   registrar_cliques: "https://script.google.com/macros/s/AKfycbyLjLrtrWAJcsyEGwqvt1dz7rXhMafY03qjBDQv6Zk4eTid2o88td0fT5y3kgYCgJnkSw/exec",
 };
